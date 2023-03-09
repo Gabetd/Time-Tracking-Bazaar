@@ -11,7 +11,6 @@
 - Must not burden server with polling requests
 - Must not burden existing documents with more than 1KB of data
 - Must be able to track time spent on each section, quiz and other parts of the LMS
-
-- 
+- Must not double count when the same user is using two devices/browsers
 
 
