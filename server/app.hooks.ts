@@ -2,7 +2,7 @@
 // Don't remove this comment. It's needed to format import lines nicely.
 
 import { HookContext } from './declarations.js'
-
+// Yyolo
 // This is even easier to do on a Resolver
 const createdAt = (ctx: any) => {
   const items = Array.isArray(ctx.data) ? ctx.data : [ctx.data]
